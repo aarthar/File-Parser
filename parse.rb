@@ -46,7 +46,7 @@ end
 
 # Main body. Excecuted on start.
 
-puts "\n\nThis script will take a specified file, parse the file for a string, "
+puts "\n\nThis script will take a specified file, parse the file for a string (or series of strings with a common value), "
 puts "then prune the file leaving just the string. You must provide a common thread that "
 puts "is shared between each string."
 puts "\nThis will output to Tape Final.txt.\n\n\n"
